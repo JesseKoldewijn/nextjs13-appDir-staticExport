@@ -1,0 +1,30 @@
+{
+  "name": "test_error",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next export"
+  },
+  "dependencies": {
+    "@fontsource/museomoderno": "^4.5.13",
+    "eslint-config-next": "^13.2.4",
+    "firebase": "^9.19.0",
+    "framer-motion": "^10.10.0",
+    "next": "canary",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@next/eslint-plugin-next": "^13.2.4",
+    "@types/react": "18.0.31",
+    "autoprefixer": "^10.4.14",
+    "encoding": "^0.1.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.1",
+    "typescript": "5.0.3"
+  }
+}
